@@ -1,0 +1,23 @@
+{
+  "name": "socketio",
+  "version": "0.1.0",
+  "description": "Descripcion perra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzalberto/socketio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzalberto/socketio/issues"
+  },
+  "homepage": "https://github.com/vzalberto/socketio#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
